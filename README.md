@@ -1,1 +1,3 @@
 # Car-Price_Prediction_System
+
+I developed a Car Price Prediction System using machine learning, leveraging Linear Regression and Lasso Regression to estimate car prices based on diverse features. This project resulted in accurate price predictions by optimizing the models and provided actionable insights into the factors influencing car valuation. By creating a reliable and user-friendly system, the project enabled effective evaluation of car prices for potential buyers or sellers. Utilizing my knowledge of supervised learning algorithms, I employed Python libraries such as Scikit-learn and Pandas for efficient data processing, model implementation, and evaluation, demonstrating my ability to build data-driven solutions to solve real-world challenges.
